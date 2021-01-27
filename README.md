@@ -1,6 +1,6 @@
 # Image-Classification-of-Drawings
 
-This code repo was build as a part of the kaggle competition 2(https://www.kaggle.com/c/ift3395-6390-quickdraw Classification of drawings) for IFT 6390 Machine Learning course. This is a image classification task in which Convolutional Neural Network model was built using tensorflow and keras to classify images of drawings.
+This code repo was build as a part of the kaggle competition 2(https://www.kaggle.com/c/ift3395-6390-quickdraw Classification of drawings) for IFT 6390 Machine Learning course. This is an image classification task in which Convolutional Neural Network model was built using tensorflow and keras to classify images of drawings.
 
 Prerequisite:
 
